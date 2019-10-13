@@ -1,3 +1,9 @@
-.red {
-    color: red;
+body {
+    background: #435243; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #52c234, #061700); 
+    background: linear-gradient(to right, #52c234, #061700);
+  }
+
+img {
+    width: 300px;
 }
